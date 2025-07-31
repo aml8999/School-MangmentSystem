@@ -2,7 +2,7 @@
 
 A fully interactive console-based application to manage students and courses, built using Object-Oriented Programming (OOP) principles and following SOLID design guidelines for clean and maintainable code.
 
----
+--- 
 
 ## 📌 Features
 
