@@ -1,0 +1,7 @@
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\bin\Debug\Advanced School Management System (OOP + SOLID).exe.config
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\bin\Debug\Advanced School Management System (OOP + SOLID).exe
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\bin\Debug\Advanced School Management System (OOP + SOLID).pdb
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\obj\Debug\Advanced School Management System (OOP + SOLID).csproj.AssemblyReference.cache
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\obj\Debug\Advanced School Management System (OOP + SOLID).csproj.CoreCompileInputs.cache
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\obj\Debug\Advanced School Management System (OOP + SOLID).exe
+C:\Users\Workstation Shop\source\repos\Advanced School Management System (OOP + SOLID)\Advanced School Management System (OOP + SOLID)\obj\Debug\Advanced School Management System (OOP + SOLID).pdb
