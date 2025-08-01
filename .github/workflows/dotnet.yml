@@ -17,6 +17,25 @@ jobs:
     - name: Setup MSBuild path
       uses: microsoft/setup-msbuild@v1.1
 
+    name: Build .NET Framework App
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup MSBuild path
+      uses: microsoft/setup-msbuild@v1.1
+
     - name: Restore NuGet packages
       run: nuget restore "StudentManagementSystem.sln"
 
